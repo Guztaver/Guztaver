@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Guztaver
+- 👀 I’m interested in open source apps 
+- 🌱 I’m currently learning C++/JS/Java
+- 📫 gutadosanjos@gmail.com
