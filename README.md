@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guztaver
 - 👀 I’m interested in open source apps, and JavaScript/Java
-- 🌱 I’m currently learning Kotli
+- 🌱 I’m currently learning Kotlin
 - 📫 gustavo@mnanjos.com.br (E-Mail 📬) | @gustavoanjs (Twitter 🐦)
 - 
 - 🤔 If I have the opportunity to learn, I will
