@@ -1,6 +1,39 @@
-- 👋 Hi, I’m @Guztaver
-- 👀 I’m interested in open source apps, and JavaScript/Java
-- 🌱 I’m currently learning Kotlin
-- 📫 gustavo@mnanjos.com.br (E-Mail 📬) | @gustavoanjs (Twitter 🐦)
-- 
-- 🤔 If I have the opportunity to learn, I will
+ Salve 
+---
+
+Meu nome é Gustavo, e não sei como, mas você caiu na minha página! 
+
+Linguanges que Já tive contanto
+---
+
+PC Backend:
+```
+Java, Kotlin, C++, C, .NET
+```
+
+PC FrontEnd:
+```
+Vala, QT (C++)
+```
+
+Web-Front End:
+```
+NextJS, React, Electron
+```
+
+DB: 
+```
+Não conheço os conceitos ainda
+```
+Android:
+
+```
+Flutter, Kotlin
+```
+
+Contanto
+---
+
+Email: gustavo@mnanjos.com.br
+Twitter: @gustavoanjs
+LinkedIn: @gustavo404
