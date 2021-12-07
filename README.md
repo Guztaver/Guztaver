@@ -31,6 +31,11 @@ Android:
 Flutter, Kotlin
 ```
 
+Versionamento:
+```
+Git (GitHub, Lab, Bucket), Vercel
+```
+
 Contanto
 ---
 
