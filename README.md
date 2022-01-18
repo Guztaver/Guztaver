@@ -3,7 +3,7 @@
 
 Meu nome é Gustavo, e não sei como, mas você caiu na minha página! 
 
-Linguanges que Já tive contanto
+ Linguanges que Já tive contanto
 ---
 
 PC Backend:
@@ -39,6 +39,8 @@ Git (GitHub, Lab, Bucket), Vercel
 Contanto
 ---
 
-Email: gustavo@mnanjos.com.br
+Email: gutadosanjos@gmail.com
+
 Twitter: @gustavoanjs
+
 LinkedIn: @gustavo404
