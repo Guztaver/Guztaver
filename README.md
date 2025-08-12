@@ -35,13 +35,13 @@
              `/:-:++oooo+:               Packages: npm, yarn, pnpm
             `/++++/+++++++:              Shell: zsh + oh-my-zsh
            `/++++++++++++++:             Resolution: Problems, daily
-          `/+++ooooooooooooo/`           Terminal: Hyper + VSCode
+          `/+++ooooooooooooo/`           Terminal: iTerm2 + nvim
          ./ooosssso++osssssso+`          CPU: TypeScript (16 cores)
         .oossssso-````/ossssss+`         GPU: React Renderer 
        -osssssso.      :ssssssso.        Memory: Infinite coffee loop
       :osssssss/        osssso+++.       Disk: ~/Projects (expanding)
-     /ossssssss/        +ssssooo/-       Languages: JS, TS, Python, Go
-   `/ossssso+/:-        -:/+osssso+-     Frameworks: React, Next.js, Node
+     /ossssssss/        +ssssooo/-       Languages: JS, TS, Python, Go, PHP
+   `/ossssso+/:-        -:/+osssso+-     Frameworks: React, Next.js, Node, Symfony, Laravel
   `+sso+:-`                 `.-/+oso:    
  `++:.                           `-/+/   
  .`                                 `/   
@@ -64,6 +64,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF9999?style=for-the-badge&logo=laravel&logoColor=red)
+![Symfony](https://img.shields.io/badge/Symfony-FF4444?style=for=the=badge&logo=symfony&logoColor=black)
 
 ### **DevOps & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -141,7 +143,7 @@ $ curl -X GET https://api.social-networks.dev/gustavo
 ```typescript
 const gustavo = {
   currentlyLearning: ["Go", "C#", "Vue"],
-  askMeAbout: ["TypeScript", "React", "Node.js", "System Design"],
+  askMeAbout: ["TypeScript", "React", "Node.js", "System Design", "PHP"],
   funFact: "I debug with console.log and I'm not ashamed",
   currentProject: "Building something awesome",
   favoriteOS: "macOS",
