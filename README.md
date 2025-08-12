@@ -64,7 +64,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF9999?style=for-the-badge&logo=laravel&logoColor=red)
+![Laravel](https://img.shields.io/badge/Laravel-FF9999?style=for-the-badge&logo=laravel&logoColor=red))
 ![Symfony](https://img.shields.io/badge/Symfony-FF4444?style=for=the=badge&logo=symfony&logoColor=black)
 
 ### **DevOps & Tools**
